@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Alex Gélin &ndash; ECT2</title>
+    <link rel="stylesheet" href="../style.css"/>
+    <link rel="shortcut icon" type="../image/x-icon" href="../img/favicon.ico"/>
+  </head>
+
+  <body>
+    <div id="bloc_page">
+      <nav>
+	<div id="menu">
+	  <div id="menu_left">
+	    <ul>
+	      <li><a href="../"><img src="../img/home.png" title="Back to main" alt="Back to main" /></a></li>
+	    </ul>
+	  </div>
+	  <div id="menu_middle">
+	    <ul>
+	      <li><a href="../1A"> ECT1 </a></li>
+	      <li><a href="."> ECT2 </a></li>
+	      <li><a href="https://cocalc.com/static/app.html?anonymous=jupyter"> Python </a></li>
+	    </ul>
+	  </div>
+	  <div id="menu_right">
+	    <ul>
+	      <li><a href="https://alexgelin.fr/"><img src="../img/perso.png" title="Go to webpage" alt="Go to webpage" /></a></li>
+	    </ul>
+	  </div>
+	</div>
+      </nav>
+
+
+      
+      <header>
+	<div id="head">
+	  <!-- <h1><a href="pgm2.pdf">Le programme de colles de la semaine</a></h1> -->
+	  <h1><a href="../img/kcabp.png">Le programme de colles de la semaine</a></h1>
+	</div>
+      </header>
+
+
+
+      <section>
+	<!-- <h1>Les concours</h1> -->
+	<!-- <hr/> -->
+	<!-- <p class="text"> -->
+	<!--   Un corrigé personnel de l'épreuve ECRICOME : <a href="Eval/Ecricome.pdf">Corrigé</a><br> -->
+	<!--   Un corrigé personnel de l'épreuve ESCP : <a href="Eval/ESCP.pdf">Corrigé</a><br> -->
+	<!--   Un corrigé personnel de l'épreuve BSB : <a href="Eval/BSB.pdf">Corrigé</a><br> -->
+	<!-- </p> -->
+
+	<!-- <h1>Chapitre 10 &ndash; Probabilités & Estimation</h1> -->
+	<!-- <hr/> -->
+	<!-- <p class="text"> -->
+	<!--   Le cours complété : <a href="10prof2.pdf">Cours</a><br> -->
+	<!--   La feuille d'exercices : <a href="10td2.pdf">TD</a><br> -->
+	<!--   La correction de l'interro 11 : <a href="Eval/11int2c.pdf">Corrigé</a><br> -->
+	<!-- </p> -->
+
+	<!-- <h1>Chapitre 9 &ndash; Réduction de matrices</h1> -->
+	<!-- <hr/> -->
+	<!-- <p class="text"> -->
+	<!--   Le cours complété : <a href="9prof2.pdf">Cours</a><br> -->
+	<!--   La feuille d'exercices : <a href="9td2.pdf">TD</a><br> -->
+	<!--   La correction de l'interro 10 : <a href="Eval/10int2c.pdf">Corrigé</a><br> -->
+	<!--   <b>L'énoncé et la correction du CB4 : <a href="Eval/5DS2.pdf">Énoncé</a> &ndash; <a href="Eval/5DS2c.pdf">Corrigé</a> &ndash; <a href="Eval/5DS2r.pdf">Rapport</a></b><br> -->
+	<!-- </p> -->
+
+	<!-- <h1>Chapitre 8 &ndash; Variables aléatoires continues</h1> -->
+	<!-- <hr/> -->
+	<!-- <p class="text"> -->
+	<!--   Le cours complété : <a href="8prof2.pdf">Cours</a><br> -->
+	<!--   La feuille d'exercices : <a href="8td2.pdf">TD</a><br> -->
+	<!--   La correction de l'interro 9 : <a href="Eval/9int2c.pdf">Corrigé</a><br> -->
+	<!--   <b>L'énoncé et la correction du DS4 : <a href="Eval/4DS2.pdf">Énoncé</a> &ndash; <a href="Eval/4DS2c.pdf">Corrigé</a></b><br> -->
+	<!-- </p> -->
+
+	<!-- <h1>Chapitre 7 &ndash; Intégrales généralisées</h1> -->
+	<!-- <hr/> -->
+	<!-- <p class="text"> -->
+	<!--   Le cours complété : <a href="7prof2.pdf">Cours</a><br> -->
+	<!--   La feuille d'exercices : <a href="7td2.pdf">TD</a><br> -->
+	<!--   La correction de l'interro 7 : <a href="Eval/7int2c.pdf">Corrigé</a><br> -->
+	<!--   La correction de l'interro 8 : <a href="Eval/8int2c.pdf">Corrigé</a><br> -->
+	<!-- </p> -->
+
+	<!-- <h1>Chapitre 6 &ndash; Statistiques</h1> -->
+	<!-- <hr/> -->
+	<!-- <p class="text"> -->
+	<!--   Le cours complété : <a href="6prof2.pdf">Cours</a><br> -->
+	<!--   La feuille d'exercices : <a href="6td2.pdf">TD</a><br> -->
+	<!--   <b>L'énoncé et la correction du DM2 : <a href="Eval/2DM2.pdf">Énoncé</a> &ndash; <a href="Eval/2DM2c.pdf">Corrigé</a></b><br> -->
+	<!-- </p> -->
+
+	<!-- <h1>Chapitre 5 &ndash; Matrices inversibles</h1> -->
+	<!-- <hr/> -->
+	<!-- <p class="text"> -->
+	<!--   Le cours complété : <a href="5prof2.pdf">Cours</a><br> -->
+	<!--   La feuille d'exercices : <a href="5td2.pdf">TD</a><br> -->
+	<!--   <b>L'énoncé et la correction du DS3 : <a href="Eval/3DS2.pdf">Énoncé</a> &ndash; <a href="Eval/3DS2c.pdf">Corrigé</a></b><br> -->
+	<!-- </p> -->
+
+	<!-- <h1>Chapitre 4 &ndash; Variables aléatoires discrètes</h1> -->
+	<!-- <hr/> -->
+	<!-- <p class="text"> -->
+	<!--   Le cours complété : <a href="4prof2.pdf">Cours</a><br> -->
+	<!--   La feuille d'exercices : <a href="4td2.pdf">TD</a><br> -->
+	<!--   La correction de l'interro 5 : <a href="Eval/5int2c.pdf">Corrigé</a><br> -->
+	<!--   La correction de l'interro 6 : <a href="Eval/6int2c.pdf">Corrigé</a><br> -->
+	<!-- </p> -->
+
+	<h1>Chapitre 3 &ndash; Séries numériques</h1>
+	<hr/>
+	<p class="text">
+	  Le cours vierge : <a href="3chap2.pdf">Cours</a><br>
+	  La feuille d'exercices : <a href="3td2.pdf">TD</a><br>
+	</p>
+
+	<h1>Chapitre 2 &ndash; Familles de variables aléatoires</h1>
+	<hr/>
+	<p class="text">
+	  Le cours complété : <a href="2prof2.pdf">Cours</a><br>
+	  La feuille d'exercices : <a href="2td2.pdf">TD</a><br>
+	  La correction de l'interro 3 : <a href="Eval/3int2c.pdf">Corrigé</a><br>
+	  La correction de l'interro 4 : <a href="Eval/4int2c.pdf">Corrigé</a><br>
+	  <b>L'énoncé et la correction du DS1 : <a href="Eval/1DS2.pdf">Énoncé</a> &ndash; <a href="Eval/1DS2c.pdf">Corrigé</a></b><br>
+	</p>
+
+	<h1>Chapitre 1 &ndash; Matrices</h1>
+	<hr/>
+	<p class="text">
+	  Le cours complété : <a href="1prof2.pdf">Cours</a><br>
+	  La feuille d'exercices : <a href="1td2.pdf">TD</a><br>
+	  La correction de l'interro 1 : <a href="Eval/1int2c.pdf">Corrigé</a><br>
+	  La correction de l'interro 2 : <a href="Eval/2int2c.pdf">Corrigé</a><br>
+
+	</p>
+
+	<h1>Et aussi...</h1>
+	<hr/>
+	<p class="text">
+	  Je ne peux que vous encourager à aller voir mes cours de première année
+	  <a href="../1A"><b><font color="#FF7000">ici</font></b></a>
+	</p>
+
+	<!-- <p class="text"> -->
+	<!-- En attente pour l'année prochaine... -->
+	<!-- </p> -->
+      </section>
+      
+      <hr />
+      <hr />
+      
+      <footer>
+	<p>(Dernière mise à jour: 15/10/2021)</p>
+      </footer>
+    </div>
+  </body>
+</html>
