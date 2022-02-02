@@ -259,7 +259,7 @@ def forfait(n):
     pA=1.2*n
     print("Le prix payé avec le forfait A serait de",pA,"euros.")
     pB=20
-    print("Le prix payé avec le forfait A serait de",pB,"euros.")
+    print("Le prix payé avec le forfait B serait de",pB,"euros.")
     if pA<pB:
         return "Le forfait le plus favorable est le forfait A"
     else:
