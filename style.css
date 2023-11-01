@@ -1,7 +1,7 @@
 body
 {
     color: #000000;
-    font-family: Utopia;
+    font-family: Liberation;
     background-color: #C0FFFF;
 }
 
@@ -56,8 +56,8 @@ nav #menu_middle
     top: 0px;
     left: 25%;
     text-align: middle;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 nav #menu_right
@@ -116,7 +116,7 @@ header
 {
     display: inline-block;
     width: 98%;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -130,12 +130,11 @@ header h1
     text-align : center
 }
 
-.txt
+header
 {
-
-    text-align : justify;
+    font-size: .97em;
+    text-align : center
 }
-
 
 header a
 {
